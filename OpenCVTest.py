@@ -1,3 +1,4 @@
+# Written by szewczukm219, edited by Devrath Iyer
 import cv2
 import numpy as np
 vid = cv2.VideoCapture(1)
